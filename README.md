@@ -1,2 +1,4 @@
 # hello-world
-dummy project
+# dummy project
+
+Created to practice git. I am new to git and github.
